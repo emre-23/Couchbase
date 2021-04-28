@@ -107,7 +107,7 @@ branch'imi değiştirip .txt dosysını indiriyorum.
 
 python3 travel.py -c 35.226.207.165 -u Emre -p 123456
 
-http://35.226.207.165:8080/index.html  üzerinden register
+http://35.226.207.165:8080/index.html  üzerinden register oldum.
 
 Ardından login istediği gönderdiğimde veya Parisi lokasyonunda hotel aradığımda, gidiş dönüş uçuş aradığımda sorgu responselarını görebildim.
 

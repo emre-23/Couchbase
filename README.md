@@ -95,7 +95,22 @@ Travel Sample adında bucket oluşturuldu.
  ![image](https://user-images.githubusercontent.com/53182424/116420199-6fb14e00-a846-11eb-87c2-8cebdd81e09d.png)
 
 
+Olusturduğum dizinde ;
 
+git clone https://github.com/couchbaselabs/try-cb-python.git
 
+cd try-cb-python
+git checkout 6.5
+python3 -m pip install -r requirements.txt
+
+branch'imi değiştirip .txt dosysını indiriyorum.
+
+python3 travel.py -c 35.226.207.165 -u Emre -p 123456
+
+http://35.226.207.165:8080/index.html  üzerinden register
+
+Ardından login istediği gönderdiğimde veya Parisi lokasyonunda hotel aradığımda, gidiş dönüş uçuş aradığımda sorgu responselarını görebildim.
+
+![image](https://user-images.githubusercontent.com/53182424/116426141-85754200-a84b-11eb-8343-6b448483a3bf.png)
 
 

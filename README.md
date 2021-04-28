@@ -111,6 +111,9 @@ http://35.226.207.165:8080/index.html  üzerinden register
 
 Ardından login istediği gönderdiğimde veya Parisi lokasyonunda hotel aradığımda, gidiş dönüş uçuş aradığımda sorgu responselarını görebildim.
 
+![image](https://user-images.githubusercontent.com/53182424/116426349-b6557700-a84b-11eb-84c6-c568cbdda64c.png)
+
+
 ![image](https://user-images.githubusercontent.com/53182424/116426141-85754200-a84b-11eb-8343-6b448483a3bf.png)
 
 

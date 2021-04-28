@@ -87,6 +87,12 @@ curl -v -X POST http://172.17.0.4:8091/pools/default/buckets/YEmre \
 ![image](https://user-images.githubusercontent.com/53182424/116316831-2f58be00-a7bb-11eb-9724-f0aa2a459d74.png)
 
 
+Ardından Python SDK kurulumlarını tamamladıktan sonra basic example ile kod (cb-test.py) içerisinde json tanımlanmış bilgiler getirildi.
+
+Travel Sample adında bucket oluşturuldu.
+ #python3 cb-test.py ile aşağıdaki sonuç elde edildi
+ 
+ ![image](https://user-images.githubusercontent.com/53182424/116420199-6fb14e00-a846-11eb-87c2-8cebdd81e09d.png)
 
 
 
